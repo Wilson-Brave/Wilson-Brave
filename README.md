@@ -1,3 +1,8 @@
+
+## Full Stack .NET Developer 
+### Web Developer 
+#### SharePoint Administrator
+
 - 👋 Hi, I’m @Wilson-Brave
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
