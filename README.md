@@ -5,8 +5,8 @@
 Feel free to reach out for collaboration, 
 project inquiries, or discussions about the exciting world of Full Stack .NET Development, Web Development, or SharePoint Administration.
 
-website: [your.email@example.com](https://brave-wilson-cv.web.app/)
+website: [Brave-Wilson.com](https://brave-wilson-cv.web.app/)
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: [linkedin.com/bravewilsonkahweka13](https://www.linkedin.com/in/bravewilsonkahweka13/)
 
 Thank you for visiting this repository, and I look forward to connecting with you!
