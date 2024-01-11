@@ -1,13 +1,12 @@
 
 ## Full Stack .NET Developer | Web Developer | SharePoint Administrator
 
-- 👋 Hi, I’m @Wilson-Brave
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Contact
+Feel free to reach out for collaboration, 
+project inquiries, or discussions about the exciting world of Full Stack .NET Development, Web Development, or SharePoint Administration.
 
-<!---
-Wilson-Brave/Wilson-Brave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+website: [your.email@example.com](https://brave-wilson-cv.web.app/)
+
+LinkedIn: Your LinkedIn Profile
+
+Thank you for visiting this repository, and I look forward to connecting with you!
