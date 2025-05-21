@@ -1,12 +1,16 @@
+---
 
-## Full Stack .NET Developer | Web Developer | SharePoint Administrator
+## Full Stack .NET Developer | Web Developer | SharePoint Administrator | QA Tester (ISTQB Certified)
 
 ## Contact
-Feel free to reach out for collaboration, 
-project inquiries, or discussions about the exciting world of Full Stack .NET Development, Web Development, or SharePoint Administration.
 
-website: [Brave-Wilson.com](https://brave-wilson-cv.web.app/)
+I'm a passionate Full Stack .NET Developer and ISTQB Certified QA Tester with experience in Web Development and SharePoint Administration.
 
-LinkedIn: [linkedin.com/bravewilsonkahweka13](https://www.linkedin.com/in/bravewilsonkahweka13/)
+Feel free to reach out for collaboration, project opportunities, or to connect on all things Full Stack Development, Quality Assurance, and Web Technologies.
 
-Thank you for visiting this repository, and I look forward to connecting with you!
+🌐 Website: [Brave-Wilson.com](https://brave-wilson-cv.web.app/)
+🔗 LinkedIn: [linkedin.com/in/bravewilsonkahweka13](https://www.linkedin.com/in/bravewilsonkahweka13/)
+
+Thank you for visiting this repository — I look forward to connecting with you!
+
+---
