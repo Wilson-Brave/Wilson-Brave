@@ -1,8 +1,8 @@
-# Full Stack .NET Developer | Web Developer | SharePoint Administrator | QA Tester (ISTQB Certified)
+# Full Stack .NET Developer | QA Tester (ISTQB Certified) | 8+ Exp
 
 ## 📬 Contact
 
-I'm a dedicated Full Stack .NET Developer and ISTQB Certified QA Tester with experience in Web Development and SharePoint Administration.
+I'm a dedicated Full Stack .NET Developer and ISTQB Certified QA Tester with well over 8 years of experience in the professional Industry.
 
 Feel free to reach out for collaboration, project opportunities, or to connect on all things Full Stack Development, Quality Assurance, and Web Technologies.
 
